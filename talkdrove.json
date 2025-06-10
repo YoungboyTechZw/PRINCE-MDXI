@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MDX~qGr1iJmbzpz51T0ACxRg"
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
