@@ -5,8 +5,8 @@ const fs = require('fs'),
       convertToBool = (text, fault = 'true') => text === fault;
 
 
-global.sessionServer = "https://backend-session-ehli.onrender.com";
-global.session = "https://session-id-2fza.onrender.com"; 
+global.sessionServer = "https://sessions-r8cn.onrender.com";
+global.session = "https://session-id-8pge.onrender.com"; 
  
  
 module.exports = {
